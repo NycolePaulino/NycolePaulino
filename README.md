@@ -16,4 +16,4 @@
     <img align="center" alt="CSS" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
 </div><br/>
 
-Discente de Bacharelado Ciências da Computação - Universidade Federal de Alfenas (UNIFAL)
+Discente de Bacharelado Ciência da Computação - Universidade Federal de Alfenas (UNIFAL)
