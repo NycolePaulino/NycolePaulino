@@ -1,16 +1,59 @@
-## Hi there 👋
+# Oi, eu sou a Nycole Paulino! 👋
 
-<!--
-**NycolePaulino/NycolePaulino** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Desenvolvedora Front-end · React · TypeScript · Next.js**
 
-Here are some ideas to get you started:
+<div align="center">
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/nycole-paulino)
+[![Portfólio](https://img.shields.io/badge/Portfólio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://portifolio-nycole.vercel.app/)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nycolepaulino.dev@gmail.com)
+
+</div>
+
+---
+
+Desenvolvedora Front-end especializada em **React, TypeScript e Next.js**, com foco em performance, escalabilidade e experiência do usuário. Experiência prática em projetos Full-Stack com integrações de IA via **n8n**, banco de dados em tempo real com **Supabase** e containerização com **Docker**. Cursando Ciência da Computação na **UNIFAL-MG** (7° período).
+
+---
+
+## 🛠️ Stack
+
+**Front-end**
+
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![Shadcn/ui](https://img.shields.io/badge/Shadcn_ui-000000?style=for-the-badge&logo=shadcnui&logoColor=white)
+![React Hook Form](https://img.shields.io/badge/React_Hook_Form-EC5990?style=for-the-badge&logo=reacthookform&logoColor=white)
+![Zod](https://img.shields.io/badge/Zod-3E67B1?style=for-the-badge&logo=zod&logoColor=white)
+
+**Integração & Backend**
+
+![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white)
+![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+
+**Ferramentas**
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=NycolePaulino&show_icons=true&theme=tokyonight&hide_border=true&locale=pt-br)](https://github.com/NycolePaulino)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NycolePaulino&layout=compact&theme=tokyonight&hide_border=true&locale=pt-br)](https://github.com/NycolePaulino)
+
+</div>
+
+---
+
+<div align="center">
+  <sub>Feito com foco em performance e boa arquitetura ✨</sub>
+</div>
