@@ -12,7 +12,7 @@
 
 ---
 
-Desenvolvedora Front-end especializada em **React, TypeScript e Next.js**, com foco em performance, escalabilidade e experiência do usuário. Experiência prática em projetos Full-Stack com integrações de IA via **n8n**, banco de dados em tempo real com **Supabase** e containerização com **Docker**. Cursando Ciência da Computação na **UNIFAL-MG** (7° período).
+Desenvolvedora Front-end especializada em **React, TypeScript e Next.js**, com foco em performance, escalabilidade e experiência do usuário. Experiência prática em projetos Full-Stack com integrações de IA via **n8n**, banco de dados em tempo real com **Supabase** e containerização com **Docker**.
 
 ---
 
