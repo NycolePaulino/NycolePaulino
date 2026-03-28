@@ -47,7 +47,6 @@ Desenvolvedora Front-end especializada em **React, TypeScript e Next.js**, com f
 
 <div align="center">
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=NycolePaulino&show_icons=true&theme=tokyonight&hide_border=true&locale=pt-br)](https://github.com/NycolePaulino)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NycolePaulino&layout=compact&theme=tokyonight&hide_border=true&locale=pt-br)](https://github.com/NycolePaulino)
+[![GitHub Streak](https://streak-stats.demolab.com?user=NycolePaulino&theme=tokyonight&hide_border=true&locale=pt_BR&date_format=j%20M%5B%20Y%5D)](https://github.com/NycolePaulino)
 
 </div>
