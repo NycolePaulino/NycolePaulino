@@ -51,9 +51,3 @@ Desenvolvedora Front-end especializada em **React, TypeScript e Next.js**, com f
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NycolePaulino&layout=compact&theme=tokyonight&hide_border=true&locale=pt-br)](https://github.com/NycolePaulino)
 
 </div>
-
----
-
-<div align="center">
-  <sub>Feito com foco em performance e boa arquitetura ✨</sub>
-</div>
