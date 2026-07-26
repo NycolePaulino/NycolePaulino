@@ -63,6 +63,3 @@ Desenvolvedora Front-end especializada em **React, TypeScript e Next.js**, com f
 
 </div>
 
-> 💡 Se alguma imagem acima não carregar, é o servidor gratuito do Vercel que satura às vezes — basta atualizar a página (F5) daqui a alguns minutos.
-
----
