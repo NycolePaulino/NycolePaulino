@@ -1,9 +1,8 @@
-# Oi, eu sou a Nycole Paulino! 👋
-
-**Desenvolvedora Front-end · React · TypeScript · Next.js**
+<h1 align="center">Oi, eu sou a Nycole Paulino! 👋</h1>
+<h3 align="center">Desenvolvedora Front-end · React · TypeScript · Next.js</h3>
 
 <div align="center">
-
+  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/nycole-paulino)
 [![Portfólio](https://img.shields.io/badge/Portfólio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://portifolio-nycole.vercel.app/)
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nycolepaulino.dev@gmail.com)
@@ -11,6 +10,8 @@
 </div>
 
 ---
+
+### 💼 Sobre mim
 
 Desenvolvedora Front-end especializada em **React, TypeScript e Next.js**, com foco em performance, escalabilidade e experiência do usuário. Experiência prática em projetos Full-Stack com integrações de IA via **n8n**, banco de dados em tempo real com **Supabase** e containerização com **Docker**.
 
@@ -50,6 +51,18 @@ Desenvolvedora Front-end especializada em **React, TypeScript e Next.js**, com f
 
 <div align="center">
 
-[[![GitHub Streak](https://streak-stats.demolab.com?user=NycolePaulino&theme=tokyonight&hide_border=true&locale=pt_BR&date_format=j%20M%5B%20Y%5D)](https://github.com/NycolePaulino)](https://streak-stats.demolab.com?user=NycolePaulino&theme=tokyonight&hide_border=true&locale=pt_BR&date_format=j%20M%5B%20Y%5D&count_private=true)
+<img src="https://github-readme-stats.vercel.app/api?username=NycolePaulino&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" width="49%" />
+<img src="https://streak-stats.demolab.com?user=NycolePaulino&theme=tokyonight&hide_border=true&locale=pt_BR&date_format=j%20M%5B%20Y%5D&count_private=true" width="49%" />
 
+<br/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NycolePaulino&layout=compact&theme=tokyonight&hide_border=true&count_private=true" width="49%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=NycolePaulino&theme=tokyo-night&hide_border=true" width="49%" />
+
+</div>
+
+---
+
+<div align="center">
+  <sub>Feito com 💜 por Nycole Paulino</sub>
 </div>
