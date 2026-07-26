@@ -1,8 +1,9 @@
-<h1 align="center">Oi, eu sou a Nycole Paulino! 👋</h1>
-<h3 align="center">Desenvolvedora Front-end · React · TypeScript · Next.js</h3>
-
 <div align="center">
-  
+
+<a href="https://portifolio-nycole.vercel.app/">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=800&color=8B5CF6&center=true&vCenter=true&width=600&lines=Oi%2C+eu+sou+a+Nycole+Paulino!+%F0%9F%91%8B;Desenvolvedora+Front-end;React+%C2%B7+TypeScript+%C2%B7+Next.js;Focada+em+performance+e+UX" alt="Typing SVG" />
+</a>
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/nycole-paulino)
 [![Portfólio](https://img.shields.io/badge/Portfólio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://portifolio-nycole.vercel.app/)
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nycolepaulino.dev@gmail.com)
@@ -31,6 +32,7 @@ Desenvolvedora Front-end especializada em **React, TypeScript e Next.js**, com f
 
 **Integração & Backend**
 
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white)
 ![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
@@ -51,18 +53,16 @@ Desenvolvedora Front-end especializada em **React, TypeScript e Next.js**, com f
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=NycolePaulino&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" width="49%" />
+<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=NycolePaulino&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" width="49%" />
 <img src="https://streak-stats.demolab.com?user=NycolePaulino&theme=tokyonight&hide_border=true&locale=pt_BR&date_format=j%20M%5B%20Y%5D&count_private=true" width="49%" />
 
 <br/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NycolePaulino&layout=compact&theme=tokyonight&hide_border=true&count_private=true" width="49%" />
+<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=NycolePaulino&layout=compact&theme=tokyonight&hide_border=true&count_private=true" width="49%" />
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=NycolePaulino&theme=tokyo-night&hide_border=true" width="49%" />
 
 </div>
 
----
+> 💡 Se alguma imagem acima não carregar, é o servidor gratuito do Vercel que satura às vezes — basta atualizar a página (F5) daqui a alguns minutos.
 
-<div align="center">
-  <sub>Feito com 💜 por Nycole Paulino</sub>
-</div>
+---
