@@ -123,6 +123,8 @@ Meu portfólio pessoal com projetos, experiências, tecnologias e informações 
 
 </div>
 
+---
+
 ## 📫 Vamos conversar?
 
 Estou aberta a oportunidades, projetos e conexões na área de desenvolvimento de software.
