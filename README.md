@@ -96,34 +96,36 @@ Meu portfólio pessoal com projetos, experiências, tecnologias e informações 
 <div align="center">
 
 <img
-  src="https://github-readme-stats.vercel.app/api?username=NycolePaulino&show_icons=true&theme=tokyonight&hide_border=true&title_color=8B5CF6&icon_color=8B5CF6"
-  width="49%"
+  src="https://SEU-DOMINIO.vercel.app/api?username=NycolePaulino&show_icons=true&theme=tokyonight&hide_border=true&title_color=8B5CF6&icon_color=8B5CF6"
+  width="500"
   alt="GitHub Stats"
 />
 
+<br/>
+
+<img
+  src="https://SEU-DOMINIO.vercel.app/api/top-langs/?username=NycolePaulino&layout=compact&theme=tokyonight&hide_border=true&title_color=8B5CF6"
+  width="500"
+  alt="Top Languages"
+/>
+
+<br/>
+
 <img
   src="https://streak-stats.demolab.com/?user=NycolePaulino&theme=tokyonight&hide_border=true&locale=pt_BR&ring=8B5CF6&fire=8B5CF6&currStreakLabel=8B5CF6"
-  width="49%"
+  width="500"
   alt="GitHub Streak"
 />
 
 <br/>
 
 <img
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=NycolePaulino&layout=compact&theme=tokyonight&hide_border=true&title_color=8B5CF6"
-  width="49%"
-  alt="Top Languages"
-/>
-
-<img
   src="https://github-readme-activity-graph.vercel.app/graph?username=NycolePaulino&theme=tokyo-night&hide_border=true&custom_title=Minha%20atividade%20no%20GitHub"
-  width="49%"
+  width="800"
   alt="GitHub Activity Graph"
 />
 
 </div>
-
----
 
 ## 📫 Vamos conversar?
 
