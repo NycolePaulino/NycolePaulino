@@ -97,31 +97,27 @@ Meu portfólio pessoal com projetos, experiências, tecnologias e informações 
 
 <img
   src="https://github-readme-stats-eosin-seven.vercel.app/api?username=NycolePaulino&show_icons=true&theme=tokyonight&hide_border=true&title_color=8B5CF6&icon_color=8B5CF6"
-  width="500"
+  width="48%"
   alt="GitHub Stats"
 />
 
-<br/>
-
-<img
-  src="https://github-readme-stats-eosin-seven.vercel.app/api/top-langs/?username=NycolePaulino&layout=compact&theme=tokyonight&hide_border=true&title_color=8B5CF6"
-  width="500"
-  alt="Top Languages"
-/>
-
-<br/>
-
 <img
   src="https://streak-stats.demolab.com/?user=NycolePaulino&theme=tokyonight&hide_border=true&locale=pt_BR&ring=8B5CF6&fire=8B5CF6&currStreakLabel=8B5CF6"
-  width="500"
+  width="48%"
   alt="GitHub Streak"
 />
 
 <br/>
 
 <img
+  src="https://github-readme-stats-eosin-seven.vercel.app/api/top-langs/?username=NycolePaulino&layout=compact&theme=tokyonight&hide_border=true&title_color=8B5CF6"
+  width="48%"
+  alt="Top Languages"
+/>
+
+<img
   src="https://github-readme-activity-graph.vercel.app/graph?username=NycolePaulino&theme=tokyo-night&hide_border=true&custom_title=Minha%20atividade%20no%20GitHub"
-  width="800"
+  width="48%"
   alt="GitHub Activity Graph"
 />
 
