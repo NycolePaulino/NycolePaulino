@@ -96,7 +96,7 @@ Meu portfólio pessoal com projetos, experiências, tecnologias e informações 
 <div align="center">
 
 <img
-  src="https://SEU-DOMINIO.vercel.app/api?username=NycolePaulino&show_icons=true&theme=tokyonight&hide_border=true&title_color=8B5CF6&icon_color=8B5CF6"
+  src="https://github-readme-stats-eosin-seven.vercel.app/api?username=NycolePaulino&show_icons=true&theme=tokyonight&hide_border=true&title_color=8B5CF6&icon_color=8B5CF6"
   width="500"
   alt="GitHub Stats"
 />
@@ -104,7 +104,7 @@ Meu portfólio pessoal com projetos, experiências, tecnologias e informações 
 <br/>
 
 <img
-  src="https://SEU-DOMINIO.vercel.app/api/top-langs/?username=NycolePaulino&layout=compact&theme=tokyonight&hide_border=true&title_color=8B5CF6"
+  src="https://github-readme-stats-eosin-seven.vercel.app/api/top-langs/?username=NycolePaulino&layout=compact&theme=tokyonight&hide_border=true&title_color=8B5CF6"
   width="500"
   alt="Top Languages"
 />
