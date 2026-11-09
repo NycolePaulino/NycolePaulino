@@ -9,7 +9,6 @@
   <a href="https://portifolio-nycole.vercel.app"><img src="https://img.shields.io/badge/Portfólio-111111?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfólio"></a>
   <a href="mailto:nycolepaulino.dev@gmail.com"><img src="https://img.shields.io/badge/E--mail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="E-mail"></a>
 </p>
----
  
 ## 🧠 Sobre mim
  
@@ -19,7 +18,6 @@ Sou desenvolvedora de software com foco em **back-end e IA aplicada**. Hoje trab
 - 📱 Criei o **DOR.IA**, app com assistente de IA publicado na **App Store e no Google Play** (100+ downloads)
 - 🎓 Bacharelado em **Ciência da Computação** na UNIFAL-MG (conclusão em dez. 2026)
 - 🌱 Estudando a fundo **Node.js e TypeScript no back-end**, além de RAG e arquitetura de agentes
----
  
 ## 🚀 Projetos em destaque
  
@@ -43,7 +41,6 @@ App publicado na App Store e no Google Play, com mais de 100 downloads.
 ### 🎓 Minicurso: Agentes de IA e RAG · UNIFAL-MG (out. 2026)
 Aulas práticas sobre agentes com memória, RAG com embeddings e Supabase, e integração por APIs e webhooks, usando n8n e modelos acessíveis aos participantes.
  
----
  
 ## 🛠️ Tecnologias
  
@@ -81,8 +78,6 @@ APIs REST · Webhooks · JWT · OAuth2
 ![GitLab](https://img.shields.io/badge/GitLab-FC6D26?style=flat-square&logo=gitlab&logoColor=white)
 ![Jira](https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=jira&logoColor=white)
  
----
- 
 ## 💼 Experiência
  
 | Onde | Função | Período |
@@ -92,7 +87,6 @@ APIs REST · Webhooks · JWT · OAuth2
 | **Planny Marketing** | Desenvolvedora Full-Stack Júnior: DOR.IA e sites para clientes | jan. 2026 – set. 2026 |
 | **Polygon Soluções** | Desenvolvedora Front-end: SisApec, projeto reconhecido pelo MEC e pela OIT | mar. 2025 – dez. 2025 |
  
----
  
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=NycolePaulino&show_icons=true&hide_border=true&theme=transparent" height="160" alt="GitHub stats">
