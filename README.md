@@ -88,8 +88,11 @@ APIs REST · Webhooks · JWT · OAuth2
 | **Polygon Soluções** | Desenvolvedora Front-end: SisApec, projeto reconhecido pelo MEC e pela OIT | mar. 2025 – dez. 2025 |
  
  
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=NycolePaulino&show_icons=true&hide_border=true&theme=transparent" height="160" alt="GitHub stats">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NycolePaulino&layout=compact&hide_border=true&theme=transparent" height="160" alt="Linguagens mais usadas">
-</p>
+<div align="center">
+
+<img src="https://github-readme-stats-eosin-seven.vercel.app/api?username=NycolePaulino&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&hide_rank=true&v=2" alt="GitHub stats" width="49%" />
+<img src="https://github-readme-stats-eosin-seven.vercel.app/api/top-langs/?username=NycolePaulino&layout=compact&theme=tokyonight&hide_border=true&v=2" alt="Linguagens mais usadas" width="49%" />
+
+</div>
+
 <p align="center"><i>Aberta a oportunidades em back-end e IA aplicada. Vamos conversar? ✨</i></p>
